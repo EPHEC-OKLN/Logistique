@@ -10,8 +10,8 @@
  
   # Motivations des technologies/infrastructures utilisées
   
- +Nous avons utilisé le matériel qui nous à été donné. Nous avons utilisé un Switch c35/50 layer 3 en plus. 
- +
+ Nous avons utilisé le matériel qui nous à été donné. Nous avons utilisé un Switch c35/50 layer 3 en plus. 
+ 
   # Remarques éventuelles
   
   # Sources (Important !)
