@@ -4,7 +4,7 @@ Au terme de cette semaine, il y a du matériel qui n'a pas été utilisé. Nous 
 
 # Problèmes rencontrés (énnoncé du problème + solution)
 
-Nous aurions bien voulu utilisé un deuxième point d'accès (T-P link) pour séparer celui des admin et celui des utilisateurs. Malheureusement nous n'avons pas eu accès à un autre car il n'y en avais pas asser. 
+Nous aurions bien voulu utiliser un deuxième point d'accès (T-P link) pour séparer celui des admin et celui des utilisateurs. Malheureusement nous n'avons pas eu accès à un autre car il n'y en avais pas asser. 
 
 # Motivations des technologies/infrastructures utilisées
 
